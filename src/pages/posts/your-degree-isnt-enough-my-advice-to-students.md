@@ -1,7 +1,7 @@
 ---
 title: Your degree isn't enough - my advice to students
 subtitle: '(Bootcamp grads, listen up too.)'
-date: '2021-01-01'
+date: '2020-10-15'
 excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
 template: post
