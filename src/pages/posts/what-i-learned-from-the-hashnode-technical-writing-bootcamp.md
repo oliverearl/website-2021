@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: What I learned from the Hashnode Technical Writing Bootcamp
 subtitle: lorem-ipsum
 date: '2021-01-05'
 excerpt: lorem-ipsum
