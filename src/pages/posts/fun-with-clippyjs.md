@@ -5,6 +5,7 @@ date: '2020-10-08'
 excerpt: ''
 canonical_url: 'https://blog.oliverearl.co.uk/fun-with-clippyjs'
 template: post
+content_img_path: /images/Fun with Clippy.js.jpg
 ---
 ## Lorem ipsum
 
