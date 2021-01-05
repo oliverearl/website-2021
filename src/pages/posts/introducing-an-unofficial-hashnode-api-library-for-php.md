@@ -9,8 +9,6 @@ template: post
 thumb_img_path: /images/Hashnode API (Website).jpg
 content_img_path: /images/Hashnode API for PHP.png
 ---
-## Introducing an unofficial Hashnode API library for PHP
-
 When I heard about the [Hashnode Christmas Hackathon](https://townhall.hashnode.com/hashnode-christmas-hackathon), I immediately began brainstorming ideas to develop something that members of our community might find useful, but would also be a great learning experience for myself. After all, learning is at the heart of Hashnode.
 
 In any case, after numerous scrapped ideas and half-baked prototypes (that I'll talk about in an upcoming article!) I decided that I would go in the direction of building a library - something that I have never done before, and using PHP, a programming language that I'm quite familiar with. By working on this project, it was my ambition to learn more about **GraphQL**, the technology that Hashnode's API (*Application Programming Interface*) utilises, and something I previously knew nothing about!
