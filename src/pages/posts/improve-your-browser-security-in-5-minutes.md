@@ -1,7 +1,7 @@
 ---
 title: Improve your browser security in 5 minutes
 subtitle: (Cybersecurity is for everyone. Everyone.)
-date: ''
+date: '2020-10-15'
 excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
 template: post
