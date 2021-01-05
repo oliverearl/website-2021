@@ -7,7 +7,7 @@
         "type": "header",
         "template": "header",
         "title": "Oliver Earl",
-        "tagline": "Header Tagline",
+        "tagline": "Full-Stack Developer",
         "profile_img": "images/avatar.png",
         "background": "dark",
         "has_nav": true,
