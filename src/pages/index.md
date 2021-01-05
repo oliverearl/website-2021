@@ -26,7 +26,7 @@ sections:
         label: Contact Me
         url: /contact
         style: button
-      - label: lorem-ipsum
+      - label: Download CV
         url: lorem-ipsum
         style: button
         icon_class: lorem-ipsum
