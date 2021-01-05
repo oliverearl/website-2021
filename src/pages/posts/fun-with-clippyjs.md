@@ -1,7 +1,7 @@
 ---
 title: Fun with Clippy.js
 subtitle: ''
-date: '2020-10-01'
+date: '2020-10-11'
 excerpt: ''
 canonical_url: 'https://blog.oliverearl.co.uk/fun-with-clippyjs'
 template: post
