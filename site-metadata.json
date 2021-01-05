@@ -93,14 +93,6 @@
                 "style": "icon",
                 "icon_class": "fa-dev",
                 "new_window": true
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "lorem-ipsum",
-                "style": "link",
-                "icon_class": "lorem-ipsum",
-                "new_window": false,
-                "type": "action"
             }
         ],
         "profile_img": "/images/famous-broccoli.jpg"
