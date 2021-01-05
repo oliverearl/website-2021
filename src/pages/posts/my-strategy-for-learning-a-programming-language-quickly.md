@@ -2,8 +2,9 @@
 title: My strategy for learning a programming language quickly
 subtitle: ''
 date: '2020-10-25'
-excerpt: lorem-ipsum
-canonical_url: lorem-ipsum
+excerpt: ''
+canonical_url: >-
+  https://blog.oliverearl.co.uk/my-strategy-for-learning-a-programming-language-quickly
 template: post
 thumb_img_path: /images/Learning a Language Quickly (Website).jpg
 content_img_path: /images/Learning a Language Quickly.jpg
