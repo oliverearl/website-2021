@@ -5,6 +5,7 @@ date: '2020-10-15'
 excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
 template: post
+thumb_img_path: /images/Improve your Browser Security in 5 Minutes (Website).jpg
 ---
 ## Lorem ipsum
 
