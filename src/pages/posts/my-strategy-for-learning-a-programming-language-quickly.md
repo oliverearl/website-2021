@@ -6,6 +6,7 @@ excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
 template: post
 thumb_img_path: /images/Learning a Language Quickly (Website).jpg
+content_img_path: /images/Learning a Language Quickly.jpg
 ---
 ## Lorem ipsum
 
