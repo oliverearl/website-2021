@@ -9,8 +9,6 @@ template: post
 thumb_img_path: /images/Learning a Language Quickly (Website).jpg
 content_img_path: /images/Learning a Language Quickly.jpg
 ---
-## My Strategy for Learning a Programming Language Quickly
-
 When I first arrived at my new school, I was completely unaware what programming language they were using to teach the students - it's something that is prone to changing over time and isn't usually mentioned on a job spec. Many schools throughout the UK will use Python from start to finish in both a procedural and object-oriented fashion later down the line, whereas some schools are still using Visual Basic. I was alarmed to find out that the senior students use C\# - a language I had very little knowledge of and experience using outside of playing with it in Unity. Or so I thought.
 
 This article is all about how I was able to rapidly learn C# and begin adding it to my programming repertoire, because I was suddenly in a position where I had to! This isn't a situation that is unique to educators such as myself; as a developer, a system architect, or whatever role you are currently in or aspire to be in, there could be times where you too are forced to rapidly learn a new language, framework, or technology in the face of new circumstances, such as a new client or acquisition, or *maybe your boss was just feeling malevolent.*
