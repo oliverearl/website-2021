@@ -72,7 +72,7 @@ _However, all functionality to retrieve information from Hashnode is complete!_
 
 ![Stories to Bootstrap Album](https://cdn.hashnode.com/res/hashnode/image/upload/v1609447055519/RkCmyaEzo.jpeg)
 
->An example of using the API to pull stories data into a Bootstrap 5 album
+*An example of using the API to pull stories data into a Bootstrap 5 album*
 
 
 ## The development process
