@@ -6,6 +6,7 @@ excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
 template: post
 thumb_img_path: /images/Improve your Browser Security in 5 Minutes (Website).jpg
+content_img_path: /images/Improve your Browser Security in 5 Minutes.jpg
 ---
 ## Lorem ipsum
 
