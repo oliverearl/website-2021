@@ -2,7 +2,7 @@
 title: Fun with Clippy.js
 subtitle: lorem-ipsum
 date: '2020-10-08'
-excerpt: lorem-ipsum
+excerpt: ''
 canonical_url: lorem-ipsum
 template: post
 ---
