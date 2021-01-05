@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Fun with Clippy.js
 subtitle: lorem-ipsum
 date: '2021-01-05'
 excerpt: lorem-ipsum
