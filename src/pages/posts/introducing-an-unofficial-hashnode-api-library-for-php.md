@@ -1,6 +1,6 @@
 ---
 title: Introducing an unofficial Hashnode API library for PHP
-subtitle: lorem-ipsum
+subtitle: My entry into the Hashnode Christmas Hackathon.
 date: '2021-01-05'
 excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
