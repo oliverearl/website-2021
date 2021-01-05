@@ -94,7 +94,8 @@
                 "icon_class": "fa-dev",
                 "new_window": true
             }
-        ]
+        ],
+        "profile_img": "/images/modern-stegosaurus.jpg"
     },
     "footer": {
         "type": "footer",
