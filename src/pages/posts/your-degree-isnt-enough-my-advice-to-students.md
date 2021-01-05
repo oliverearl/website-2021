@@ -22,7 +22,7 @@ Of course, don't accept my word as Gospel. I absolutely encourage you to do your
 
 I realise that by writing this article some might try to mimic me directly, or curate my GitHub or other portfolios to see whether I can stick to my own advice. 
 
-**Do what I say, not what I do. **
+**Do what I say, not what I do.**
 
 I'm not always a great model to follow directly, given that my intentions have always been different and that I never intended to work as a full-time web developer given my interests and passions lie elsewhere. I'm an academic first and foremost. That being said, I routinely help people reach those goals, so let's get started.
 
