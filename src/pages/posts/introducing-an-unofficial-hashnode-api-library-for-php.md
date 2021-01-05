@@ -6,6 +6,7 @@ excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
 template: post
 thumb_img_path: /images/Hashnode API (Website).jpg
+content_img_path: /images/Hashnode API for PHP.png
 ---
 ## Lorem ipsum
 
