@@ -1,6 +1,6 @@
 ---
 title: Improve your browser security in 5 minutes
-subtitle: lorem-ipsum
+subtitle: (Cybersecurity is for everyone. Everyone.)
 date: '2021-01-05'
 excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
