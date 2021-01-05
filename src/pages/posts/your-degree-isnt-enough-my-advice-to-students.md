@@ -1,6 +1,6 @@
 ---
 title: Your degree isn't enough - my advice to students
-subtitle: lorem-ipsum
+subtitle: (
 date: '2021-01-05'
 excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
