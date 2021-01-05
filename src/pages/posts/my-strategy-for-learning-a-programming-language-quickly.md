@@ -1,7 +1,7 @@
 ---
 title: My strategy for learning a programming language quickly
 subtitle: ''
-date: '2021-01-05'
+date: '2021-01-02'
 excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
 template: post
