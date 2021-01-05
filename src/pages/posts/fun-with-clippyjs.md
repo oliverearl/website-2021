@@ -6,6 +6,7 @@ excerpt: ''
 canonical_url: 'https://blog.oliverearl.co.uk/fun-with-clippyjs'
 template: post
 content_img_path: /images/Fun with Clippy.js.jpg
+thumb_img_path: /images/Fun with Clippy.js (Website).jpg
 ---
 ## Lorem ipsum
 
