@@ -12,10 +12,14 @@ sections:
     title: About
     section_id: about
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      I write a few times a week various computer science, web development, and
+      software engineering topics every week. It's my ambition to help more and
+      more people into technology and to help learners make the very most out of
+      their learning in whatever route they take. 
+
+
+      Other topics close to my heart might seldom come up, including mental
+      health, and pedagogy - the science behind teaching.
     actions:
       - type: action
         template: action
