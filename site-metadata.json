@@ -52,15 +52,6 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "icon",
-                "icon_class": "fa-twitter",
-                "new_window": true
-            },
-            {
-                "type": "action",
-                "template": "action",
                 "label": "Instagram",
                 "url": "https://www.instagram.com/",
                 "style": "icon",
