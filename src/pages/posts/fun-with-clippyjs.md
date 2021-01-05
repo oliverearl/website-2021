@@ -3,7 +3,7 @@ title: Fun with Clippy.js
 subtitle: lorem-ipsum
 date: '2020-10-08'
 excerpt: ''
-canonical_url: lorem-ipsum
+canonical_url: 'https://blog.oliverearl.co.uk/fun-with-clippyjs'
 template: post
 ---
 ## Lorem ipsum
