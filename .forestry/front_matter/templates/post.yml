@@ -40,5 +40,4 @@ fields:
     config:
       required: true
 pages:
-  - src/pages/posts/test.md
   - src/pages/posts/introducing-an-unofficial-hashnode-api-library-for-php.md
