@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: My strategy for learning a programming language quickly
 subtitle: lorem-ipsum
 date: '2021-01-05'
 excerpt: lorem-ipsum
