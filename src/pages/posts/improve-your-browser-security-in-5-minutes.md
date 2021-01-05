@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Improve your browser security in 5 minutes
 subtitle: lorem-ipsum
 date: '2021-01-05'
 excerpt: lorem-ipsum
