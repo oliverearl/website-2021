@@ -1,6 +1,6 @@
 ---
 title: Improve your browser security in 5 minutes
-subtitle: (Cybersecurity is for everyone. Everyone.)
+subtitle: ''
 date: '2020-10-15'
 excerpt: ''
 canonical_url: 'https://blog.oliverearl.co.uk/improve-your-browser-security-in-5-minutes'
