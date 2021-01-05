@@ -27,7 +27,7 @@ sections:
         url: /contact
         style: button
       - label: Download CV
-        url: lorem-ipsum
+        url: 'https://github.com/oliverearl/cv/blob/master/cv.pdf'
         style: button
         icon_class: lorem-ipsum
         new_window: true
