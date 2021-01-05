@@ -5,7 +5,7 @@ date: '2021-01-05'
 excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
 template: post
-thumb_img_path: /images/Hashnode API (Website).jpg
+thumb_img_path: /images/Hashnode API (Website)(1).jpg
 ---
 ## Lorem ipsum
 
