@@ -1,7 +1,7 @@
 ---
 title: What I learned from the Hashnode Technical Writing Bootcamp
 subtitle: ''
-date: '2020-08-05'
+date: '2020-10-25'
 excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
 template: post
