@@ -9,7 +9,7 @@ sections:
     content: 'I''m a full-stack developer and computer science teacher from the UK. '
   - type: section_content
     template: section_content
-    title: ''
+    title: A bit about me
     section_id: about
     content: >-
       I write a few times a week various computer science, web development, and
