@@ -39,4 +39,5 @@ fields:
     default: post
     config:
       required: true
-pages: []
+pages:
+  - src/pages/posts/test.md
