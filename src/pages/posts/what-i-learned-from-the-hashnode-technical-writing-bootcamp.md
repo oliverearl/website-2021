@@ -3,7 +3,8 @@ title: What I learned from the Hashnode Technical Writing Bootcamp
 subtitle: ''
 date: '2020-10-25'
 excerpt: ''
-canonical_url: lorem-ipsum
+canonical_url: >-
+  https://blog.oliverearl.co.uk/what-i-learned-from-the-hashnode-technical-writing-bootcamp
 template: post
 thumb_img_path: /images/Hashnode Bootcamp (Website).jpg
 content_img_path: /images/Hashnode Bootcamp.jpg
