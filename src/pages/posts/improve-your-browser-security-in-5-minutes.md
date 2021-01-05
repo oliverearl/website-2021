@@ -59,5 +59,3 @@ Steering clear of illegal or unsavoury content such as pirated movies is the gol
 ## Conclusion
 
 I hope you have enjoyed my quick guide to improving your security as you browse the Internet. As computers and the web become even greater components of our lives, so does the importance of ensuring our interactions with it along with our data are secure and protected, as failing to do so can have real-world ramifications for both you and your workplace.
-
-I look forward to your comments and I'd be more than happy to add your suggestions, especially for products and extensions to the article. Thanks for reading and until next time.
