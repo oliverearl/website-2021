@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Your degree isn't enough - my advice to students
 subtitle: lorem-ipsum
 date: '2021-01-05'
 excerpt: lorem-ipsum
