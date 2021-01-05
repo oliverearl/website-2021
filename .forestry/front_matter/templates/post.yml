@@ -39,6 +39,4 @@ fields:
     default: post
     config:
       required: true
-pages:
-  - src/pages/posts/the-ride-in-the-woods.md
-  - src/pages/posts/working-from-home.md
+pages: []
