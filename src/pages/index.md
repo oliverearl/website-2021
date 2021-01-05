@@ -29,7 +29,7 @@ sections:
       - label: Download CV
         url: 'https://github.com/oliverearl/cv/blob/master/cv.pdf'
         style: button
-        icon_class: lorem-ipsum
+        icon_class: ''
         new_window: true
         type: action
   - type: section_posts
