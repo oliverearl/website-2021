@@ -1,6 +1,6 @@
 ---
 title: Test
-subtitle: lorem-ipsum
+subtitle: Test
 date: '2021-01-05'
 excerpt: lorem-ipsum
 canonical_url: lorem-ipsum
