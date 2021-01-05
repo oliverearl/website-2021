@@ -40,7 +40,5 @@ fields:
     config:
       required: true
 pages:
-  - src/pages/posts/interior-designer.md
-  - src/pages/posts/japan.md
   - src/pages/posts/the-ride-in-the-woods.md
   - src/pages/posts/working-from-home.md
