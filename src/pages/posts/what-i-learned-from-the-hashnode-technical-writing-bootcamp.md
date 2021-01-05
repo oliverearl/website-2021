@@ -9,8 +9,6 @@ template: post
 thumb_img_path: /images/Hashnode Bootcamp (Website).jpg
 content_img_path: /images/Hashnode Bootcamp.jpg
 ---
-## What I Learned from the Hashnode Technical Writing Bootcamp
-
 As an academic and a teacher, I spend a ridiculous amount of time writing. I always believed that I was pretty good at it and always wanted to write even more online. I was enamoured with the concept of technical writing, but I genuinely had no real idea where to start, what to write about, or how on Earth I was going to reach anyone when I did decide to start scribbling.
 
 To my delight, Hashnode announced a bootcamp where budding writers including myself could come together and learn from some of the most experienced and talented writers on the platform. They were ultimately Catalin Pit, Omotola Shogunle, Tapas Adhikary, and Victoria Lo, who gave wonderfully insightful glimpses into their writing journeys, their methodologies and thought processes behind each article, and how to fend off the ever-present dragon of procrastination when their motivation levels run low. It was a humbling experience and one I remain immensely grateful for the opportunity to have participated in.
