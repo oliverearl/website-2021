@@ -39,8 +39,4 @@ fields:
     default: post
     config:
       required: true
-pages:
-  - >-
-    src/pages/posts/what-i-learned-from-the-hashnode-technical-writing-bootcamp.md
-  - src/pages/posts/my-strategy-for-learning-a-programming-language-quickly.md
-  - src/pages/posts/your-degree-isnt-enough-my-advice-to-students.md
+pages: []
