@@ -13,11 +13,12 @@ sections:
   template: section_content
   title: About me
   section_id: about
-  content: "I write a few times a week various computer science, web development,
-    and software engineering topics every week. It's my ambition to help more and
-    more people into technology and to help learners make the very most out of their
-    learning in whatever route they take. \n\nOther topics close to my heart might
-    seldom come up, including mental health, and pedagogy - the science behind teaching."
+  content: |-
+    I currently work full time at [Stickee](https://www.stickee.co.uk "Stickee") as a junior full-stack developer. I also volunteer my free time for the [Nightline Association](https://www.nightline.ac.uk "Nightline Association").
+
+    Over on my blog, I write at least once a week on various computer science, web development, and software engineering topics. It's my ambition to help more and more people into technology and to help learners make the very most out of their learning in whatever route they take.
+
+    Other topics close to my heart might seldom come up, including mental health, and pedagogy - the science behind teaching.
   actions:
   - type: action
     template: action
