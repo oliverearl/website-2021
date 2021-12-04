@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: section_hero
     template: section_hero
-    title: 'Hi, I''m Oliver.'
+    title: 'Hey, I''m Oliver.'
     section_id: hero
     content: |
       I'm a software engineer and computer science teacher from the UK.
