@@ -61,7 +61,7 @@
             },
             {
                 "label": "Twitch",
-                "url": "lorem-ipsum",
+                "url": "https://www.twitch.tv/cvkinesis",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
