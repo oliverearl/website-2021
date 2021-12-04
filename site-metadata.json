@@ -7,7 +7,6 @@
         "type": "header",
         "template": "header",
         "title": "Oliver Earl",
-        "tagline": "Software Engineer",
         "background": "dark",
         "has_nav": true,
         "nav_links": [
