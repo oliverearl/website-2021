@@ -1,73 +1,71 @@
 {
-  "title": "Oliver Earl",
-  "description": "Personal website and blog of UK developer Oliver Earl.",
-  "layout_style": "simple",
-  "palette": "blue",
-  "header": {
-    "type": "header",
-    "template": "header",
     "title": "Oliver Earl",
-    "tagline": "Software Engineer",
-    "background": "dark",
-    "has_nav": true,
-    "nav_links": [
-      {
-        "type": "action",
-        "template": "action",
-        "label": "Home",
-        "url": "/",
-        "style": "link",
-        "icon_class": "",
-        "new_window": false
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "Blog",
-        "url": "https://blog.oliverearl.co.uk",
-        "style": "link",
-        "new_window": true,
-        "icon_class": ""
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "Contact",
-        "url": "/contact/",
-        "style": "link",
-        "icon_class": "",
-        "new_window": false
-      }
-    ],
-    "has_social": true,
-    "social_links": [
-      {
-        "type": "action",
-        "template": "action",
-        "label": "GitHub",
-        "url": "https://github.com/oliverearl",
-        "style": "icon",
-        "icon_class": "fa-github",
-        "new_window": true
-      },
-      {
-        "type": "action",
-        "template": "action",
-        "label": "LinkedIn",
-        "url": "https://www.linkedin.com/in/oliverearl",
-        "style": "icon",
-        "icon_class": "fa-linkedin",
-        "new_window": true
-      }
-    ],
-    "profile_img": "/images/famous-broccoli.jpg"
-  },
-  "footer": {
-    "type": "footer",
-    "template": "footer",
-    "content": "&copy; 2021 Oliver Earl. All rights reserved.",
-    "links": [
-
-    ]
-  }
+    "description": "Personal website and blog of UK developer Oliver Earl.",
+    "layout_style": "overflow",
+    "palette": "blue",
+    "header": {
+        "type": "header",
+        "template": "header",
+        "title": "Oliver Earl",
+        "tagline": "Software Engineer",
+        "background": "dark",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "type": "action",
+                "template": "action",
+                "label": "Home",
+                "url": "/",
+                "style": "link",
+                "icon_class": "",
+                "new_window": false
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "Blog",
+                "url": "https://blog.oliverearl.co.uk",
+                "style": "link",
+                "new_window": true,
+                "icon_class": ""
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "Contact",
+                "url": "/contact/",
+                "style": "link",
+                "icon_class": "",
+                "new_window": false
+            }
+        ],
+        "has_social": true,
+        "social_links": [
+            {
+                "type": "action",
+                "template": "action",
+                "label": "GitHub",
+                "url": "https://github.com/oliverearl",
+                "style": "icon",
+                "icon_class": "fa-github",
+                "new_window": true
+            },
+            {
+                "type": "action",
+                "template": "action",
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/oliverearl",
+                "style": "icon",
+                "icon_class": "fa-linkedin",
+                "new_window": true
+            }
+        ],
+        "profile_img": "/images/famous-broccoli.jpg"
+    },
+    "footer": {
+        "type": "footer",
+        "template": "footer",
+        "content": "&copy; 2021 Oliver Earl. All rights reserved.",
+        "links": []
+    }
 }
