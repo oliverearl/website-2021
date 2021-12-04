@@ -23,15 +23,6 @@
             {
                 "type": "action",
                 "template": "action",
-                "label": "Blog",
-                "url": "https://blog.oliverearl.co.uk",
-                "style": "link",
-                "new_window": true,
-                "icon_class": ""
-            },
-            {
-                "type": "action",
-                "template": "action",
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link",
