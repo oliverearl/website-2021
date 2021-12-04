@@ -63,7 +63,7 @@
                 "label": "Twitch",
                 "url": "https://www.twitch.tv/cvkinesis",
                 "style": "icon",
-                "icon_class": "twitch",
+                "icon_class": "fa-twitch",
                 "new_window": false,
                 "type": "action"
             }
