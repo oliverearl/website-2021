@@ -2,7 +2,7 @@
     "title": "Oliver Earl",
     "description": "Personal website and blog of UK developer Oliver Earl.",
     "layout_style": "overflow",
-    "palette": "blue",
+    "palette": "violet",
     "header": {
         "type": "header",
         "template": "header",
