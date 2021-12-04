@@ -11,7 +11,7 @@ sections:
     actions: []
   - type: section_content
     template: section_content
-    title: About me
+    title: A little about me
     section_id: about
     content: >+
       Passionate about both programming and education, I consider myself a dual
