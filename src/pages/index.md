@@ -76,7 +76,7 @@ sections:
         new_window: true
         type: action
     image: ''
-    title: T
+    title: About me
 template: advanced
 excerpt: ''
 ---
