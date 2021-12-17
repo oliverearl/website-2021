@@ -13,6 +13,10 @@ sections:
     template: section_content
     section_id: about
     content: >
+      **Update 2021-12-17:**:* I'm in the process of reuploading my blog. It'll
+      be back up soon!*
+
+
       Passionate about both programming and education, I consider myself a dual
       practitioner, bringing together proven industry experience as a software
       engineer upon a concrete academic foundation, multiple years of classroom
