@@ -28,7 +28,7 @@ sections:
       building robust and innovative experiences on the web and beyond.
 
 
-      **Some of the technologies I love: **Laravel, Vue.js, Nuxt, Tailwind, and
+      **Some of the technologies I love:** Laravel, Vue.js, Nuxt, Tailwind, and
       more recently, TypeScript and Inertia.js.
 
 
