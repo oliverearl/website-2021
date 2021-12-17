@@ -12,7 +12,7 @@ sections:
   - type: section_content
     template: section_content
     section_id: about
-    content: >+
+    content: >
       Passionate about both programming and education, I consider myself a dual
       practitioner, bringing together proven industry experience as a software
       engineer upon a concrete academic foundation, multiple years of classroom
@@ -25,26 +25,29 @@ sections:
 
       I'm a full-stack software engineer at [Stickee
       Technology](https://www.stickeetechnology.com), with a serious interest in
-      building robust and innovative experiences on the web and beyond.
+      building robust and innovative experiences on the web and beyond. 
+
+
+      Some of the technologies I love: Laravel, Vue.js, Nuxt, Tailwind, and more
+      recently, TypeScript and Inertia.js.
 
 
       ## By night...
 
 
-      What started as a hobby project during the 2020 lockdown, I'm working on a
-      multitude of upcoming video games under[ Petrobolos
-      Games](https://www.petrobolos.com) with the help of other talented
-      up-and-coming artists and developers. 
-
-
       Mental health is a cause close to my heart. I volunteer a substantial
       amount of time to the [Nightline Association](https://www.nightline.ac.uk)
       as a Regional Coordinator, with the aim of ensuring all students in Wales
-      have someone to talk to without judgement and in complete anonymity.
+      have someone to talk to without judgment and in complete anonymity.
 
 
-      I sometimes stream programming and computer science tuition over on
-      [Twitch](https://www.twitch.tv/cskinesis).
+      What started as a hobby project during the 2020 lockdown, I'm working on a
+      multitude of upcoming video games under[ Petrobolos
+      Games](https://www.petrobolos.com) with the help of some friends.
+
+
+      I'm also interested in foreign languages, reading, and doing online
+      courses.
 
 
       ## Previously worked at...
@@ -60,7 +63,6 @@ sections:
 
       *   [Aberystywth University](https://www.aber.ac.uk), *leading university
       for student satisfaction in the UK*
-
     actions:
       - type: action
         template: action
