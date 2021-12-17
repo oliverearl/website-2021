@@ -13,8 +13,8 @@ sections:
     template: section_content
     section_id: about
     content: >
-      **Update 2021-12-17:**:* I'm in the process of re-uploading my blog. It'll
-      be back up soon!*
+      **Update 2021-12-17:**: \*I'm in the process of re-uploading my blog.
+      It'll be back up soon!\*
 
 
       Passionate about both programming and education, I consider myself a dual
