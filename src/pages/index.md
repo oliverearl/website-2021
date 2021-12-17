@@ -13,7 +13,7 @@ sections:
     template: section_content
     section_id: about
     content: >
-      **Update 2021-12-17:**:* I'm in the process of reuploading my blog. It'll
+      **Update 2021-12-17:**:* I'm in the process of re-uploading my blog. It'll
       be back up soon!*
 
 
