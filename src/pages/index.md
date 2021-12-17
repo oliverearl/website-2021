@@ -25,11 +25,11 @@ sections:
 
       I'm a full-stack software engineer at [Stickee
       Technology](https://www.stickeetechnology.com), with a serious interest in
-      building robust and innovative experiences on the web and beyond. 
+      building robust and innovative experiences on the web and beyond.
 
 
-      Some of the technologies I love: Laravel, Vue.js, Nuxt, Tailwind, and more
-      recently, TypeScript and Inertia.js.
+      **Some of the technologies I love: **Laravel, Vue.js, Nuxt, Tailwind, and
+      more recently, TypeScript and Inertia.js.
 
 
       ## By night...
